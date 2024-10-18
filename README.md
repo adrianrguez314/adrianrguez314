@@ -49,6 +49,6 @@ Feel free to connect with me for collaborations or discussions on theoretical ph
 
 ## Contact Me
 
-[<img src="https://img.icons8.com/color/20/000000/link.png"/> Personal portfolio](https://adrianrguez96.github.io/)  [<img src="https://img.icons8.com/color/20/000000/github--v1.png"/> GitHub](https://github.com/adrianrguez96)  [<img src="https://img.icons8.com/color/20/000000/email.png"/> Email](mailto:adriancedres996@outlook.com)  [<img src="https://img.icons8.com/color/20/000000/linkedin.png"/> Linkedin](https://linkedin.com/in/adriancedres)
+[<img src="https://img.icons8.com/color/20/000000/link.png"/> Personal portfolio](https://adrianrguez96.github.io/)  [<img src="https://img.icons8.com/color/20/000000/github--v1.png"/> GitHub](https://github.com/adrianrguez96)  [<img src="https://img.icons8.com/color/20/000000/email.png"/> Email](mailto:adriancedres996@outlook.com)  [<img src="https://img.icons8.com/color/20/000000/linkedin.png"/> Linkedin](https://linkedin.com/in/adrianrguez996)
 
 
