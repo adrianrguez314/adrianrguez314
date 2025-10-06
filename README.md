@@ -19,9 +19,9 @@ Feel free to connect with me for collaborations or discussions on theoretical ph
 ## Languages
 <p align="center">
 <img src="https://img.icons8.com/color/20/000000/spain2-circular.png"/> Spanish (Native)  |||
-<img src="https://img.icons8.com/color/20/000000/great-britain-circular.png"/> English (Fluent)  |||
-<img src="https://img.icons8.com/color/20/000000/japan-circular.png"/> Japanese (N4)   |||
-<img src="https://img.icons8.com/color/20/000000/china-circular.png"/> Chinese (HSK1)   |||
+<img src="https://img.icons8.com/color/20/000000/great-britain-circular.png"/> English (C1)  |||
+<img src="https://img.icons8.com/color/20/000000/japan-circular.png"/> Japanese (N3)   |||
+<img src="https://img.icons8.com/color/20/000000/china-circular.png"/> Chinese (HSK2)   |||
 <img src="https://img.icons8.com/color/20/000000/south-korea-circular.png"/> Korean (TOPIK I level 1) 
 </p>
 
